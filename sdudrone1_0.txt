@@ -1,0 +1,7 @@
+SDU Drone 1.0:
+• Frame: Commercial Off The Shelf (COTS) S550 hexacopter (plastic).
+• Motors: T-Motor AIR 2216 KV880 Brushless DCs (BLDCs).
+• Electronic Speed Controllers (ESCs): T-Motor AIR 20A.
+• Flight Controller (FC): Pixhawk 2.1 kit.
+• Telemetry: mRo 433 MHz modules.
+• Battery: A single 6000 mAh 4S Lithium Polymer (LiPo).
